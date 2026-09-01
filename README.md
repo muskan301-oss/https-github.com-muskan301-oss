@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm an **Engineering Leader** with 5+ years of experience architecting high-throughput, event-driven enterprise platforms, data reporting engines, and financial APIs. I lead multi-disciplinary teams building resilient, audit-ready microservices and streaming architectures for global institutional clients.
+I'm an **Java Developer** with 5+ years of experience architecting high-throughput, event-driven enterprise platforms, data reporting engines, and financial APIs. I lead multi-disciplinary teams building resilient, audit-ready microservices and streaming architectures for global institutional clients.
 
 Currently focused on driving **AI-native engineering practices** — building agent-based workflows (LangChain, tool calling, structured outputs) to accelerate the SDLC, automate QC exception handling, and modernize mission-critical financial systems.
 
